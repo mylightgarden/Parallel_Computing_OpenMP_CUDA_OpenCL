@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(43,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(70,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(201,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(201,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(202,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(202,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(207,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(232,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(232,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(233,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(233,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(238,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(275,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(277,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\Project3\Source.cpp(280,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project3\x64\Debug\Project3.exe

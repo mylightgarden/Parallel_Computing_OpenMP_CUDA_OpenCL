@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(44,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(45,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(47,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(48,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(49,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(53,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(75,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(88,11): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(96,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\Project2\Source.cpp(101,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project2\Project2\x64\Debug\Project2.exe
