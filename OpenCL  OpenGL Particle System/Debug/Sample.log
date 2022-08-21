@@ -1,0 +1,4 @@
+﻿  sample.cpp
+C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project7\Particles2019Template\Particles2019Template\sample.cpp(844,14): warning C4305: '=': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Administrator\Desktop\Oregon\475ParallelProgramming\projects\Project7\Particles2019Template\Particles2019Template\Debug\Sample.exe
